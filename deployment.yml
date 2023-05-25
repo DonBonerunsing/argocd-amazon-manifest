@@ -23,7 +23,7 @@ spec:
     spec: # Pod spec
       containers:
       - name: amazon-container
-        image: danny1dockerhub/amazon_app:5
+        image: danny1dockerhub/amazon_app:6
         ports:
         - containerPort: 3000
         
